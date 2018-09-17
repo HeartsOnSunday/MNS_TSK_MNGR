@@ -12,7 +12,7 @@ class Home extends Component {
       posts.map(post => {
         return (
           <div className="post card" key={post.id}>
-            <img src={Logo} alt="Not a pokemon" />
+            <img src={Logo} alt="HCH Logo" />
             <div className="card-content">
               <span className="card-id">{post.id}</span>
               <Link to={"/" + post.id}>
