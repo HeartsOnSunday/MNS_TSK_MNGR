@@ -10,7 +10,6 @@ class Post extends Component {
   render() {
     console.log(this.props);
     console.log(this.props.post);
-    //console.log("The Post: " + this.props.post.title);
     const post = this.props.post ? (
       <div className="post">
         <h4 className="center">{this.props.post.Category}</h4>

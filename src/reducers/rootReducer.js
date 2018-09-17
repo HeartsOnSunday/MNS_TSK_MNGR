@@ -62,7 +62,7 @@ const initState = {
       Priority: "2 - Medium"
     },
     {
-      id: 8,
+      id: "8",
       Category: "Backup",
       Subcategory: "Configuration",
       Entry:
@@ -70,63 +70,63 @@ const initState = {
       Priority: "3 - Low"
     },
     {
-      id: 9,
+      id: "9",
       Category: "Backup",
       Subcategory: "Documentation",
       Entry: "Backup documentation exists for servers",
       Priority: "1 - High"
     },
     {
-      id: 10,
+      id: "10",
       Category: "Backup",
       Subcategory: "Management",
       Entry: "Backup monitoring configured for daily failure detection",
       Priority: "1 - High"
     },
     {
-      id: 11,
+      id: "11",
       Category: "Backup",
       Subcategory: "Management",
       Entry: "Individual data restore test successful - Local",
       Priority: "1 - High"
     },
     {
-      id: 12,
+      id: "12",
       Category: "Backup",
       Subcategory: "Management",
       Entry: "Individual data restore test successful - Remote",
       Priority: "1 - High"
     },
     {
-      id: 13,
+      id: "13",
       Category: "Backup",
       Subcategory: "Management",
       Entry: "Full system restore test successful - Local",
       Priority: "2 - Medium"
     },
     {
-      id: 14,
+      id: "14",
       Category: "Backup",
       Subcategory: "Management",
       Entry: "Backup and restoration log exists",
       Priority: "3 - Low"
     },
     {
-      id: 15,
+      id: "15",
       Category: "Backup",
       Subcategory: "Standardization",
       Entry: "Backups platform adheres to company standard",
       Priority: "1 - High"
     },
     {
-      id: 16,
+      id: "16",
       Category: "Environment",
       Subcategory: "Configuration",
       Entry: "Adequate power exists for all servers/network equipment",
       Priority: "1 - High"
     },
     {
-      id: 17,
+      id: "17",
       Category: "Environment",
       Subcategory: "Configuration",
       Entry:
@@ -134,64 +134,64 @@ const initState = {
       Priority: "1 - High"
     },
     {
-      id: 18,
+      id: "18",
       Category: "Environment",
       Subcategory: "Configuration",
       Entry: "Agent software is configured for automatic deployment (RMM)",
       Priority: "1 - High"
     },
     {
-      id: 19,
+      id: "19",
       Category: "Environment",
       Subcategory: "Configuration",
       Entry: "All key client fields documented",
       Priority: "1 - High"
     },
     {
-      id: 20,
+      id: "20",
       Category: "Environment",
       Subcategory: "Configuration",
       Entry: "Temperature of network room / cooling configuration adequate",
       Priority: "1 - High"
     },
     {
-      id: 21,
+      id: "21",
       Category: "Environment",
       Subcategory: "Configuration",
       Entry:
-        "All UPS devices are functioning normally with all status lights “green",
+        'All UPS devices are functioning normally with all status lights “green"',
       Priority: "2 - Medium"
     },
     {
-      id: 22,
+      id: "22",
       Category: "Environment",
       Subcategory: "Configuration",
       Entry: "Automated shutdown of servers via UPS software is configured",
       Priority: "2 - Medium"
     },
     {
-      id: 23,
+      id: "23",
       Category: "Environment",
       Subcategory: "Configuration",
       Entry: "Client category of A/B/C configured",
       Priority: "2 - Medium"
     },
     {
-      id: 24,
+      id: "24",
       Category: "Environment",
       Subcategory: "Configuration",
       Entry: "UPS devices are free of non-network devices",
       Priority: "2 - Medium"
     },
     {
-      id: 25,
+      id: "25",
       Category: "Environment",
       Subcategory: "Configuration",
       Entry: "All server/network room data cabling is neatly cable managed",
       Priority: "3 - Low"
     },
     {
-      id: 26,
+      id: "26",
       Category: "Environment",
       Subcategory: "Configuration",
       Entry:
@@ -199,21 +199,21 @@ const initState = {
       Priority: "3 - Low"
     },
     {
-      id: 27,
+      id: "27",
       Category: "Environment",
       Subcategory: "Configuration",
       Entry: "Existing/outgoing technology provider documented",
       Priority: "3 - Low"
     },
     {
-      id: 28,
+      id: "28",
       Category: "Environment",
       Subcategory: "Configuration",
       Entry: "Keys collected and stored in lock box",
       Priority: "3 - Low"
     },
     {
-      id: 29,
+      id: "29",
       Category: "Environment",
       Subcategory: "Configuration",
       Entry:
@@ -221,154 +221,154 @@ const initState = {
       Priority: "3 - Low"
     },
     {
-      id: 30,
+      id: "30",
       Category: "Environment",
       Subcategory: "Configuration",
       Entry: "Reasonable access to server room/network room/racks is possible",
       Priority: "3 - Low"
     },
     {
-      id: 31,
+      id: "31",
       Category: "Environment",
       Subcategory: "Configuration",
       Entry: "UPS devices are within the useful life expectancy",
       Priority: "3 - Low"
     },
     {
-      id: 32,
+      id: "32",
       Category: "Environment",
       Subcategory: "Documentation",
       Entry: "Active Directory password documented",
       Priority: "1 - High"
     },
     {
-      id: 33,
+      id: "33",
       Category: "Environment",
       Subcategory: "Documentation",
       Entry: "Authorized contacts are documented/updated",
       Priority: "1 - High"
     },
     {
-      id: 34,
+      id: "34",
       Category: "Environment",
       Subcategory: "Documentation",
       Entry: "Client team set",
       Priority: "1 - High"
     },
     {
-      id: 35,
+      id: "35",
       Category: "Environment",
       Subcategory: "Documentation",
       Entry: "Current network diagrams exist",
       Priority: "1 - High"
     },
     {
-      id: 36,
+      id: "36",
       Category: "Environment",
       Subcategory: "Documentation",
       Entry: "Current site list is accurate",
       Priority: "1 - High"
     },
     {
-      id: 37,
+      id: "37",
       Category: "Environment",
       Subcategory: "Documentation",
       Entry: "Current user/employee list is accurate",
       Priority: "1 - High"
     },
     {
-      id: 38,
+      id: "38",
       Category: "Environment",
       Subcategory: "Documentation",
       Entry: "Domain registrar information is documented",
       Priority: "1 - High"
     },
     {
-      id: 39,
+      id: "39",
       Category: "Environment",
       Subcategory: "Documentation",
       Entry: "Internet Service Provider (ISP) information documented",
       Priority: "1 - High"
     },
     {
-      id: 40,
+      id: "40",
       Category: "Environment",
       Subcategory: "Documentation",
       Entry: "Public-facing services requiring SSL certificates are documented",
       Priority: "1 - High"
     },
     {
-      id: 41,
+      id: "41",
       Category: "Environment",
       Subcategory: "Documentation",
       Entry: "Standardized platforms are documented",
       Priority: "1 - High"
     },
     {
-      id: 42,
+      id: "42",
       Category: "Environment",
       Subcategory: "Documentation",
       Entry: "Subnets created and documented",
       Priority: "1 - High"
     },
     {
-      id: 43,
+      id: "43",
       Category: "Environment",
       Subcategory: "Documentation",
       Entry: "Default desktop Local Administrator password documented",
       Priority: "2 - Medium"
     },
     {
-      id: 44,
+      id: "44",
       Category: "Environment",
       Subcategory: "Documentation",
       Entry: "Documentation delivered for anti-virus/patch management/agent",
       Priority: "2 - Medium"
     },
     {
-      id: 45,
+      id: "45",
       Category: "Environment",
       Subcategory: "Documentation",
       Entry: "Photos of server / network rooms documented",
       Priority: "2 - Medium"
     },
     {
-      id: 46,
+      id: "46",
       Category: "Environment",
       Subcategory: "Documentation",
       Entry: "After-hours access process is documented",
       Priority: "3 - Low"
     },
     {
-      id: 47,
+      id: "47",
       Category: "Environment",
       Subcategory: "Documentation",
       Entry: "All servers/network devices physically labeled",
       Priority: "3 - Low"
     },
     {
-      id: 48,
+      id: "48",
       Category: "Environment",
       Subcategory: "Documentation",
       Entry: "All software licensing documented",
       Priority: "3 - Low"
     },
     {
-      id: 49,
+      id: "49",
       Category: "Environment",
       Subcategory: "Documentation",
       Entry: "All UPS devices are documented",
       Priority: "3 - Low"
     },
     {
-      id: 50,
+      id: "50",
       Category: "Environment",
       Subcategory: "Documentation",
       Entry: "All warranty documentation/certificates documented",
       Priority: "3 - Low"
     },
     {
-      id: 51,
+      id: "51",
       Category: "Environment",
       Subcategory: "Documentation",
       Entry:
@@ -376,49 +376,49 @@ const initState = {
       Priority: "3 - Low"
     },
     {
-      id: 52,
+      id: "52",
       Category: "Environment",
       Subcategory: "Documentation",
       Entry: "Current workstation inventory exists",
       Priority: "3 - Low"
     },
     {
-      id: 53,
+      id: "53",
       Category: "Environment",
       Subcategory: "Documentation",
       Entry: "Floorplan of office exists",
       Priority: "3 - Low"
     },
     {
-      id: 54,
+      id: "54",
       Category: "Environment",
       Subcategory: "Documentation",
       Entry: "Organizational chart documented",
       Priority: "3 - Low"
     },
     {
-      id: 55,
+      id: "55",
       Category: "Environment",
       Subcategory: "Standardization",
       Entry: "Anti-spam adheres to company standard",
       Priority: "1 - High"
     },
     {
-      id: 56,
+      id: "56",
       Category: "Environment",
       Subcategory: "Standardization",
       Entry: "Anti-virus ahderes to company standard",
       Priority: "1 - High"
     },
     {
-      id: 57,
+      id: "57",
       Category: "Governance",
       Subcategory: "Policy",
       Entry: "A backup and disaster recovery plan is in place",
       Priority: "1 - High"
     },
     {
-      id: 58,
+      id: "58",
       Category: "Governance",
       Subcategory: "Policy",
       Entry:
@@ -426,196 +426,196 @@ const initState = {
       Priority: "1 - High"
     },
     {
-      id: 59,
+      id: "59",
       Category: "Governance",
       Subcategory: "Policy",
       Entry: "Patch management policy is defined and active",
       Priority: "1 - High"
     },
     {
-      id: 60,
+      id: "60",
       Category: "Governance",
       Subcategory: "Policy",
       Entry: "Remote email access policy is defined",
       Priority: "1 - High"
     },
     {
-      id: 61,
+      id: "61",
       Category: "Governance",
       Subcategory: "Policy",
       Entry: "Remote network access policy is defined",
       Priority: "1 - High"
     },
     {
-      id: 62,
+      id: "62",
       Category: "Governance",
       Subcategory: "Policy",
       Entry: "Remote smart phone access policy is defined",
       Priority: "1 - High"
     },
     {
-      id: 63,
+      id: "63",
       Category: "Governance",
       Subcategory: "Policy",
       Entry: "Change Management policy is defined and active",
       Priority: "2 - Medium"
     },
     {
-      id: 64,
+      id: "64",
       Category: "Governance",
       Subcategory: "Policy",
       Entry: "Mobile device standards policy exists",
       Priority: "2 - Medium"
     },
     {
-      id: 65,
+      id: "65",
       Category: "Governance",
       Subcategory: "Policy",
       Entry: "Prioritization of services/applications has been defined",
       Priority: "2 - Medium"
     },
     {
-      id: 66,
+      id: "66",
       Category: "Governance",
       Subcategory: "Policy",
       Entry: "Standard hardware configurations have been defined",
       Priority: "2 - Medium"
     },
     {
-      id: 67,
+      id: "67",
       Category: "Governance",
       Subcategory: "Policy",
       Entry: "Wireless access policy in place",
       Priority: "2 - Medium"
     },
     {
-      id: 68,
+      id: "68",
       Category: "Governance",
       Subcategory: "Policy",
       Entry: "Accetable Use Policy (AUP) is defined",
       Priority: "3 - Low"
     },
     {
-      id: 69,
+      id: "69",
       Category: "Governance",
       Subcategory: "Policy",
       Entry: "Naming standards policy exists",
       Priority: "3 - Low"
     },
     {
-      id: 70,
+      id: "70",
       Category: "Governance",
       Subcategory: "Policy",
       Entry: "Non-disclosure and confidentiality policy is defined",
       Priority: "3 - Low"
     },
     {
-      id: 71,
+      id: "71",
       Category: "Governance",
       Subcategory: "Policy",
       Entry: "Standard sales/invoicing terms and process have been defined",
       Priority: "3 - Low"
     },
     {
-      id: 72,
+      id: "72",
       Category: "Governance",
       Subcategory: "Policy",
       Entry: "Standard/approved applications policy exists",
       Priority: "3 - Low"
     },
     {
-      id: 73,
+      id: "73",
       Category: "Governance",
       Subcategory: "Procedure",
       Entry: "Site power down procedure documented",
       Priority: "1 - High"
     },
     {
-      id: 74,
+      id: "74",
       Category: "Governance",
       Subcategory: "Procedure",
       Entry: "Site power up procedure documented",
       Priority: "1 - High"
     },
     {
-      id: 75,
+      id: "75",
       Category: "Governance",
       Subcategory: "Procedure",
       Entry: "User Decommissioning/termination procedures are defined",
       Priority: "1 - High"
     },
     {
-      id: 76,
+      id: "76",
       Category: "Governance",
       Subcategory: "Procedure",
       Entry: "User set-up procedure is defined",
       Priority: "1 - High"
     },
     {
-      id: 77,
+      id: "77",
       Category: "Mobile",
       Subcategory: "Documentation",
       Entry: "Mobile device documentation exists",
       Priority: "3 - Low"
     },
     {
-      id: 78,
+      id: "78",
       Category: "Mobile",
       Subcategory: "Security",
       Entry: "Mobile devices can be remotely wiped",
       Priority: "1 - High"
     },
     {
-      id: 79,
+      id: "79",
       Category: "Network",
       Subcategory: "Configuration",
       Entry: "Adequate LAN capacity exists to support network requirements",
       Priority: "1 - High"
     },
     {
-      id: 80,
+      id: "80",
       Category: "Network",
       Subcategory: "Configuration",
       Entry: "All public-facing services are adequately secured",
       Priority: "1 - High"
     },
     {
-      id: 81,
+      id: "81",
       Category: "Network",
       Subcategory: "Configuration",
       Entry: "All wireless traffic encrypted with a minimum of WPA2-PSK",
       Priority: "1 - High"
     },
     {
-      id: 82,
+      id: "82",
       Category: "Network",
       Subcategory: "Configuration",
       Entry: "Email platform is fully supported",
       Priority: "1 - High"
     },
     {
-      id: 83,
+      id: "83",
       Category: "Network",
       Subcategory: "Configuration",
       Entry: "Email server is protected by gateway anti-spam/anti-virus",
       Priority: "1 - High"
     },
     {
-      id: 84,
+      id: "84",
       Category: "Network",
       Subcategory: "Configuration",
       Entry: "Ethernet switches are managed devices from single vendor",
       Priority: "1 - High"
     },
     {
-      id: 85,
+      id: "85",
       Category: "Network",
       Subcategory: "Configuration",
       Entry: "Firewall/router configurations backed up",
       Priority: "1 - High"
     },
     {
-      id: 86,
+      id: "86",
       Category: "Network",
       Subcategory: "Configuration",
       Entry:
@@ -623,28 +623,28 @@ const initState = {
       Priority: "1 - High"
     },
     {
-      id: 87,
+      id: "87",
       Category: "Network",
       Subcategory: "Configuration",
       Entry: "Adequate Internet capacity/performance exists",
       Priority: "2 - Medium"
     },
     {
-      id: 88,
+      id: "88",
       Category: "Network",
       Subcategory: "Configuration",
       Entry: "All servers are connected at 1000Mbps or greater",
       Priority: "2 - Medium"
     },
     {
-      id: 89,
+      id: "89",
       Category: "Network",
       Subcategory: "Configuration",
       Entry: "DNS forwarding is configured for on-premises DNS servers",
       Priority: "2 - Medium"
     },
     {
-      id: 90,
+      id: "90",
       Category: "Network",
       Subcategory: "Configuration",
       Entry:
@@ -652,56 +652,56 @@ const initState = {
       Priority: "2 - Medium"
     },
     {
-      id: 91,
+      id: "91",
       Category: "Network",
       Subcategory: "Configuration",
       Entry: "Internet network using non-routable (RFC1918) addressing",
       Priority: "2 - Medium"
     },
     {
-      id: 92,
+      id: "92",
       Category: "Network",
       Subcategory: "Configuration",
       Entry: "Outbound SMTP server is configured for on-premises email servers",
       Priority: "2 - Medium"
     },
     {
-      id: 93,
+      id: "93",
       Category: "Network",
       Subcategory: "Configuration",
       Entry: "Role/service account for tech@example.com configured",
       Priority: "2 - Medium"
     },
     {
-      id: 94,
+      id: "94",
       Category: "Network",
       Subcategory: "Configuration",
       Entry: "Switch configured according to best practices",
       Priority: "2 - Medium"
     },
     {
-      id: 95,
+      id: "95",
       Category: "Network",
       Subcategory: "Configuration",
       Entry: "Wireless provided by managed wireless access point (WAP)",
       Priority: "2 - Medium"
     },
     {
-      id: 96,
+      id: "96",
       Category: "Network",
       Subcategory: "Configuration",
       Entry: "Bandwidth is managed using Quality of Service (QoS)",
       Priority: "3 - Low"
     },
     {
-      id: 97,
+      id: "97",
       Category: "Network",
       Subcategory: "Configuration",
       Entry: "Firewall/router has been updated to latest stable firmware",
       Priority: "3 - Low"
     },
     {
-      id: 98,
+      id: "98",
       Category: "Network",
       Subcategory: "Configuration",
       Entry:
@@ -709,175 +709,175 @@ const initState = {
       Priority: "3 - Low"
     },
     {
-      id: 99,
+      id: "99",
       Category: "Network",
       Subcategory: "Configuration",
       Entry: "Site-to-site VPN link exists for management",
       Priority: "3 - Low"
     },
     {
-      id: 100,
+      id: "100",
       Category: "Network",
       Subcategory: "Configuration",
       Entry: "All routers and switches are set to NTP time sources",
       Priority: "2 - Medium"
     },
     {
-      id: 101,
+      id: "101",
       Category: "Network",
       Subcategory: "Configuration",
       Entry: "All routers and switches are sending logs to central syslog",
       Priority: "2 - Medium"
     },
     {
-      id: 102,
+      id: "102",
       Category: "Network",
       Subcategory: "Documentation",
       Entry: "3rd party web/cloud/hosting logins/passwords are documented",
       Priority: "1 - High"
     },
     {
-      id: 103,
+      id: "103",
       Category: "Network",
       Subcategory: "Documentation",
       Entry: "Administrative password documented for each network device",
       Priority: "1 - High"
     },
     {
-      id: 104,
+      id: "104",
       Category: "Network",
       Subcategory: "Documentation",
       Entry: "All firewall/security devices are documented",
       Priority: "1 - High"
     },
     {
-      id: 105,
+      id: "105",
       Category: "Network",
       Subcategory: "Documentation",
       Entry: "All network switches are documented",
       Priority: "1 - High"
     },
     {
-      id: 106,
+      id: "106",
       Category: "Network",
       Subcategory: "Documentation",
       Entry: "All production domain names are documented",
       Priority: "1 - High"
     },
     {
-      id: 107,
+      id: "107",
       Category: "Network",
       Subcategory: "Documentation",
       Entry: "Anti-spam platform login/password is documented",
       Priority: "1 - High"
     },
     {
-      id: 108,
+      id: "108",
       Category: "Network",
       Subcategory: "Documentation",
       Entry: "DNS hosting login/passwords are documented",
       Priority: "1 - High"
     },
     {
-      id: 109,
+      id: "109",
       Category: "Network",
       Subcategory: "Documentation",
       Entry: "Email hosting login/passwords are documented",
       Priority: "1 - High"
     },
     {
-      id: 110,
+      id: "110",
       Category: "Network",
       Subcategory: "Documentation",
       Entry: "Remote access processes are documented",
       Priority: "1 - High"
     },
     {
-      id: 111,
+      id: "111",
       Category: "Network",
       Subcategory: "Documentation",
       Entry: "Site-to-site / VPN links are documented",
       Priority: "1 - High"
     },
     {
-      id: 112,
+      id: "112",
       Category: "Network",
       Subcategory: "Documentation",
       Entry: "Web hosting logins/passwords are documented",
       Priority: "1 - High"
     },
     {
-      id: 113,
+      id: "113",
       Category: "Network",
       Subcategory: "Documentation",
       Entry: "Inbound services are documented",
       Priority: "2 - Medium"
     },
     {
-      id: 114,
+      id: "114",
       Category: "Network",
       Subcategory: "Documentation",
       Entry: "Wireless access points physically identified on floor plan",
       Priority: "3 - Low"
     },
     {
-      id: 115,
+      id: "115",
       Category: "Network",
       Subcategory: "Documentation",
       Entry: "Wireless network SSID/authentication documented",
       Priority: "3 - Low"
     },
     {
-      id: 116,
+      id: "116",
       Category: "Network",
       Subcategory: "Management",
       Entry: "Adequate switch performance/capacity exists",
       Priority: "2 - Medium"
     },
     {
-      id: 117,
+      id: "117",
       Category: "Network",
       Subcategory: "Management",
       Entry: "Adequate wireless performance/capacity exists",
       Priority: "2 - Medium"
     },
     {
-      id: 118,
+      id: "118",
       Category: "Network",
       Subcategory: "Management",
       Entry: "Firewalls/routers monitored",
       Priority: "2 - Medium"
     },
     {
-      id: 119,
+      id: "119",
       Category: "Network",
       Subcategory: "Management",
       Entry: "Switch configurations backed up",
       Priority: "2 - Medium"
     },
     {
-      id: 120,
+      id: "120",
       Category: "Network",
       Subcategory: "Management",
       Entry: "Network switches monitored with alerting",
       Priority: "3 - Low"
     },
     {
-      id: 121,
+      id: "121",
       Category: "Network",
       Subcategory: "Security",
       Entry: "All firewall/switch/router passwords have been reset",
       Priority: "1 - High"
     },
     {
-      id: 122,
+      id: "122",
       Category: "Network",
       Subcategory: "Security",
       Entry: "All unknown outbound/inbound access disabled",
       Priority: "1 - High"
     },
     {
-      id: 123,
+      id: "123",
       Category: "Network",
       Subcategory: "Security",
       Entry:
@@ -885,21 +885,21 @@ const initState = {
       Priority: "1 - High"
     },
     {
-      id: 124,
+      id: "124",
       Category: "Network",
       Subcategory: "Security",
       Entry: "Firewall configured to limit remote administration",
       Priority: "1 - High"
     },
     {
-      id: 125,
+      id: "125",
       Category: "Network",
       Subcategory: "Security",
       Entry: "Guest wireless traffic segregated from corporate LAN",
       Priority: "1 - High"
     },
     {
-      id: 126,
+      id: "126",
       Category: "Network",
       Subcategory: "Security",
       Entry:
@@ -907,56 +907,56 @@ const initState = {
       Priority: "1 - High"
     },
     {
-      id: 127,
+      id: "127",
       Category: "Network",
       Subcategory: "Security",
       Entry: "Network-level remote access is limited to authorized staff",
       Priority: "1 - High"
     },
     {
-      id: 128,
+      id: "128",
       Category: "Network",
       Subcategory: "Security",
       Entry: "Site-to-site / VPN links are audited/current",
       Priority: "1 - High"
     },
     {
-      id: 129,
+      id: "129",
       Category: "Network",
       Subcategory: "Security",
       Entry: "Strong passphrases in use for corporate wireless SSIDs",
       Priority: "1 - High"
     },
     {
-      id: 130,
+      id: "130",
       Category: "Network",
       Subcategory: "Security",
       Entry: "Firewall/router has intrusion detection/protection enabled",
       Priority: "2 - Medium"
     },
     {
-      id: 131,
+      id: "131",
       Category: "Network",
       Subcategory: "Security",
       Entry: "Inline anti-virus/anti-malware scanning exists",
       Priority: "2 - Medium"
     },
     {
-      id: 132,
+      id: "132",
       Category: "Network",
       Subcategory: "Security",
       Entry: "Network configuration changes are centrally managed/logged",
       Priority: "2 - Medium"
     },
     {
-      id: 133,
+      id: "133",
       Category: "Network",
       Subcategory: "Security",
       Entry: "SPF record exists to prevent unsolicited/spam email",
       Priority: "2 - Medium"
     },
     {
-      id: 134,
+      id: "134",
       Category: "Network",
       Subcategory: "Security",
       Entry:
@@ -964,14 +964,14 @@ const initState = {
       Priority: "2 - Medium"
     },
     {
-      id: 135,
+      id: "135",
       Category: "Network",
       Subcategory: "Security",
       Entry: "Centralized authentication is in use for remote access",
       Priority: "2 - Medium"
     },
     {
-      id: 136,
+      id: "136",
       Category: "Network",
       Subcategory: "Security",
       Entry:
@@ -979,35 +979,35 @@ const initState = {
       Priority: "2 - Medium"
     },
     {
-      id: 137,
+      id: "137",
       Category: "Network",
       Subcategory: "Security",
       Entry: "Workstation/server/network devices auto logoff or auto lock",
       Priority: "2 - Medium"
     },
     {
-      id: 138,
+      id: "138",
       Category: "Network",
       Subcategory: "Standardization",
       Entry: "Firewall adheres to company standard",
       Priority: "1 - High"
     },
     {
-      id: 139,
+      id: "139",
       Category: "Network",
       Subcategory: "Standardization",
       Entry: "Internet DNS adheres to company standard",
       Priority: "2 - Medium"
     },
     {
-      id: 140,
+      id: "140",
       Category: "Network",
       Subcategory: "Standardization",
       Entry: "Remote access adheres to company standard",
       Priority: "2 - Medium"
     },
     {
-      id: 141,
+      id: "141",
       Category: "Power",
       Subcategory: "Configuration",
       Entry:
@@ -1015,203 +1015,203 @@ const initState = {
       Priority: "1 - High"
     },
     {
-      id: 142,
+      id: "142",
       Category: "Power",
       Subcategory: "Configuration",
       Entry: "UPS does not have a load of more than 50%",
       Priority: "2 - Medium"
     },
     {
-      id: 143,
+      id: "143",
       Category: "Power",
       Subcategory: "Configuration",
       Entry: "UPS has adequate runtime capacity",
       Priority: "2 - Medium"
     },
     {
-      id: 144,
+      id: "144",
       Category: "Roles",
       Subcategory: "Documentation",
       Entry: "Directory/DNS/DHCP configuration is documented",
       Priority: "1 - High"
     },
     {
-      id: 145,
+      id: "145",
       Category: "Roles",
       Subcategory: "Documentation",
       Entry: "Email configuration is documented",
       Priority: "1 - High"
     },
     {
-      id: 146,
+      id: "146",
       Category: "Roles",
       Subcategory: "Documentation",
       Entry: "File Sharing configuration is documented",
       Priority: "1 - High"
     },
     {
-      id: 147,
+      id: "147",
       Category: "Roles",
       Subcategory: "Documentation",
       Entry: "Internet connectivity/providers are documented",
       Priority: "1 - High"
     },
     {
-      id: 148,
+      id: "148",
       Category: "Roles",
       Subcategory: "Documentation",
       Entry: "Management agent role is documented",
       Priority: "1 - High"
     },
     {
-      id: 149,
+      id: "149",
       Category: "Roles",
       Subcategory: "Documentation",
       Entry: "Supported applications documented",
       Priority: "1 - High"
     },
     {
-      id: 150,
+      id: "150",
       Category: "Roles",
       Subcategory: "Documentation",
       Entry: "Installation process for all LOB applications are defined",
       Priority: "2 - Medium"
     },
     {
-      id: 151,
+      id: "151",
       Category: "Roles",
       Subcategory: "Documentation",
       Entry: "Supported services documented",
       Priority: "2 - Medium"
     },
     {
-      id: 152,
+      id: "152",
       Category: "Roles",
       Subcategory: "Documentation",
       Entry: "Unsupported applications/services documented",
       Priority: "2 - Medium"
     },
     {
-      id: 153,
+      id: "153",
       Category: "Roles",
       Subcategory: "Documentation",
       Entry: "Voice/PBX role is documented",
       Priority: "3 - Low"
     },
     {
-      id: 154,
+      id: "154",
       Category: "Server",
       Subcategory: "Configuration",
       Entry: "Active/Open Directory is configured according to best practices",
       Priority: "1 - High"
     },
     {
-      id: 155,
+      id: "155",
       Category: "Server",
       Subcategory: "Configuration",
       Entry: "All servers are connected to UPS with auto shutdown",
       Priority: "1 - High"
     },
     {
-      id: 156,
+      id: "156",
       Category: "Server",
       Subcategory: "Configuration",
       Entry: "All servers are joined/bound to Active/Open Directory domain",
       Priority: "1 - High"
     },
     {
-      id: 157,
+      id: "157",
       Category: "Server",
       Subcategory: "Configuration",
       Entry: "All servers are under valid/current vendor warranty",
       Priority: "1 - High"
     },
     {
-      id: 158,
+      id: "158",
       Category: "Server",
       Subcategory: "Configuration",
       Entry: "All servers configured with static network information",
       Priority: "1 - High"
     },
     {
-      id: 159,
+      id: "159",
       Category: "Server",
       Subcategory: "Configuration",
       Entry: "All servers have management agent software installed",
       Priority: "1 - High"
     },
     {
-      id: 160,
+      id: "160",
       Category: "Server",
       Subcategory: "Configuration",
       Entry: "All servers meet minimum Operating System specifications",
       Priority: "1 - High"
     },
     {
-      id: 161,
+      id: "161",
       Category: "Server",
       Subcategory: "Configuration",
       Entry: "DFS is configured according to best practices if applicable",
       Priority: "1 - High"
     },
     {
-      id: 162,
+      id: "162",
       Category: "Server",
       Subcategory: "Configuration",
       Entry: "DHCP/DNS is configured according to best practices",
       Priority: "1 - High"
     },
     {
-      id: 163,
+      id: "163",
       Category: "Server",
       Subcategory: "Configuration",
       Entry: "Exchange is configured according to best practices",
       Priority: "1 - High"
     },
     {
-      id: 164,
+      id: "164",
       Category: "Server",
       Subcategory: "Configuration",
       Entry: "Hyper-V servers are set to sync with authoritative time source",
       Priority: "1 - High"
     },
     {
-      id: 165,
+      id: "165",
       Category: "Server",
       Subcategory: "Configuration",
       Entry: "IIS is configured according to best practices",
       Priority: "1 - High"
     },
     {
-      id: 166,
+      id: "166",
       Category: "Server",
       Subcategory: "Configuration",
       Entry: "Out-of-band remote access is configured for critical servers",
       Priority: "1 - High"
     },
     {
-      id: 167,
+      id: "167",
       Category: "Server",
       Subcategory: "Configuration",
       Entry: "Remote access via Kaseya/TeamViewer configured for servers",
       Priority: "1 - High"
     },
     {
-      id: 168,
+      id: "168",
       Category: "Server",
       Subcategory: "Configuration",
       Entry: "Roaming profiles are not in use (Windows)",
       Priority: "1 - High"
     },
     {
-      id: 169,
+      id: "169",
       Category: "Server",
       Subcategory: "Configuration",
       Entry: "Servers have adequate disk space on all volumes",
       Priority: "1 - High"
     },
     {
-      id: 170,
+      id: "170",
       Category: "Server",
       Subcategory: "Configuration",
       Entry:
@@ -1219,35 +1219,35 @@ const initState = {
       Priority: "1 - High"
     },
     {
-      id: 171,
+      id: "171",
       Category: "Server",
       Subcategory: "Configuration",
       Entry: "SQL is configured according to best practices",
       Priority: "1 - High"
     },
     {
-      id: 172,
+      id: "172",
       Category: "Server",
       Subcategory: "Configuration",
       Entry: "Account lock-out duration - 15 minutes",
       Priority: "2 - Medium"
     },
     {
-      id: 173,
+      id: "173",
       Category: "Server",
       Subcategory: "Configuration",
       Entry: "Account lock-out threshold - 5 attempts",
       Priority: "2 - Medium"
     },
     {
-      id: 174,
+      id: "174",
       Category: "Server",
       Subcategory: "Configuration",
       Entry: "AD servers are set to sync with Internet time",
       Priority: "2 - Medium"
     },
     {
-      id: 175,
+      id: "175",
       Category: "Server",
       Subcategory: "Configuration",
       Entry:
@@ -1255,14 +1255,14 @@ const initState = {
       Priority: "2 - Medium"
     },
     {
-      id: 176,
+      id: "176",
       Category: "Server",
       Subcategory: "Configuration",
       Entry: "All users are configured with secured personal folder on server",
       Priority: "2 - Medium"
     },
     {
-      id: 177,
+      id: "177",
       Category: "Server",
       Subcategory: "Configuration",
       Entry:
@@ -1270,84 +1270,84 @@ const initState = {
       Priority: "3 - Low"
     },
     {
-      id: 178,
+      id: "178",
       Category: "Server",
       Subcategory: "Configuration",
       Entry: "All servers have desktop branded",
       Priority: "3 - Low"
     },
     {
-      id: 179,
+      id: "179",
       Category: "Server",
       Subcategory: "Configuration",
       Entry: "Server firmware/BIOS have been updated to latest stable firmware",
       Priority: "3 - Low"
     },
     {
-      id: 180,
+      id: "180",
       Category: "Server",
       Subcategory: "Documentation",
       Entry: "All servers/storage devices individually documented",
       Priority: "1 - High"
     },
     {
-      id: 181,
+      id: "181",
       Category: "Server",
       Subcategory: "Documentation",
       Entry: "Centralized anti-virus console login/password are documented",
       Priority: "1 - High"
     },
     {
-      id: 182,
+      id: "182",
       Category: "Server",
       Subcategory: "Documentation",
       Entry: "Local administrator password documented for each server",
       Priority: "1 - High"
     },
     {
-      id: 183,
+      id: "183",
       Category: "Server",
       Subcategory: "Documentation",
       Entry: "Server/application dependencies are documented",
       Priority: "1 - High"
     },
     {
-      id: 184,
+      id: "184",
       Category: "Server",
       Subcategory: "Management",
       Entry: "Availability monitoring of key Windows services is configured",
       Priority: "1 - High"
     },
     {
-      id: 185,
+      id: "185",
       Category: "Server",
       Subcategory: "Management",
       Entry: "Server monitoring has been verified/tested",
       Priority: "1 - High"
     },
     {
-      id: 186,
+      id: "186",
       Category: "Server",
       Subcategory: "Management",
       Entry: "Adequate server performance/capacity exists",
       Priority: "2 - Medium"
     },
     {
-      id: 187,
+      id: "187",
       Category: "Server",
       Subcategory: "Management",
       Entry: "Performance monitoring of key applications is configured",
       Priority: "2 - Medium"
     },
     {
-      id: 188,
+      id: "188",
       Category: "Server",
       Subcategory: "Security",
       Entry: "All domain admin passwords have been reset",
       Priority: "1 - High"
     },
     {
-      id: 189,
+      id: "189",
       Category: "Server",
       Subcategory: "Security",
       Entry:
@@ -1355,63 +1355,63 @@ const initState = {
       Priority: "1 - High"
     },
     {
-      id: 190,
+      id: "190",
       Category: "Server",
       Subcategory: "Security",
       Entry: "All servers have up-to-date anti-virus/anti-spyware software",
       Priority: "1 - High"
     },
     {
-      id: 191,
+      id: "191",
       Category: "Server",
       Subcategory: "Security",
       Entry: "All whitelisted server patches/updates are installed",
       Priority: "1 - High"
     },
     {
-      id: 192,
+      id: "192",
       Category: "Server",
       Subcategory: "Security",
       Entry: "Audit account settings are set",
       Priority: "2 - Medium"
     },
     {
-      id: 193,
+      id: "193",
       Category: "Server",
       Subcategory: "Security",
       Entry: "Files/folders are secured using Security Groups",
       Priority: "2 - Medium"
     },
     {
-      id: 194,
+      id: "194",
       Category: "Server",
       Subcategory: "Security",
       Entry: "Maximum security logs size set on servers",
       Priority: "2 - Medium"
     },
     {
-      id: 195,
+      id: "195",
       Category: "Server",
       Subcategory: "Security",
       Entry: "No user accounts exist with non-expiring passwords",
       Priority: "2 - Medium"
     },
     {
-      id: 196,
+      id: "196",
       Category: "Server",
       Subcategory: "Security",
       Entry: "Password policy configured in Active/Open Directory",
       Priority: "2 - Medium"
     },
     {
-      id: 197,
+      id: "197",
       Category: "Server",
       Subcategory: "Security",
       Entry: "Require password immediately after sleep or screen saver begins",
       Priority: "2 - Medium"
     },
     {
-      id: 198,
+      id: "198",
       Category: "Server",
       Subcategory: "Security",
       Entry:
@@ -1419,77 +1419,77 @@ const initState = {
       Priority: "2 - Medium"
     },
     {
-      id: 199,
+      id: "199",
       Category: "Server",
       Subcategory: "Security",
       Entry: "Secondary administrator accounts exists in case of breach",
       Priority: "2 - Medium"
     },
     {
-      id: 200,
+      id: "200",
       Category: "Server",
       Subcategory: "Security",
       Entry: "Store password using reversible encryption - disabled",
       Priority: "2 - Medium"
     },
     {
-      id: 201,
+      id: "201",
       Category: "Server",
       Subcategory: "Security",
       Entry: "Windows Firewall settings managed centrally in Active Directory",
       Priority: "2 - Medium"
     },
     {
-      id: 202,
+      id: "202",
       Category: "Server",
       Subcategory: "Standardization",
       Entry: "Group policies deployed adhere to company standard",
       Priority: "1 - High"
     },
     {
-      id: 203,
+      id: "203",
       Category: "Strategy",
       Subcategory: "Management",
       Entry: "Proactive management visits have been scheduled",
       Priority: "1 - High"
     },
     {
-      id: 204,
+      id: "204",
       Category: "Strategy",
       Subcategory: "Management",
       Entry: "Technology Strategy Plan has been delivered",
       Priority: "1 - High"
     },
     {
-      id: 205,
+      id: "205",
       Category: "Strategy",
       Subcategory: "Management",
       Entry: "Technology Strategy Plan meetings have been scheduled",
       Priority: "1 - High"
     },
     {
-      id: 206,
+      id: "206",
       Category: "Strategy",
       Subcategory: "Management",
       Entry: "Monthly technology reporting is in place and current",
       Priority: "2 - Medium"
     },
     {
-      id: 207,
+      id: "207",
       Category: "Workstation",
       Subcategory: "Configuration",
       Entry: "All network printers configured with accurate name/location",
       Priority: "1 - High"
     },
     {
-      id: 208,
+      id: "208",
       Category: "Workstation",
       Subcategory: "Configuration",
       Entry: "All network printers shared via print server",
       Priority: "1 - High"
     },
     {
-      id: 209,
+      id: "209",
       Category: "Workstation",
       Subcategory: "Configuration",
       Entry:
@@ -1497,14 +1497,14 @@ const initState = {
       Priority: "1 - High"
     },
     {
-      id: 210,
+      id: "210",
       Category: "Workstation",
       Subcategory: "Configuration",
       Entry: "All workstations are running same Operating System",
       Priority: "1 - High"
     },
     {
-      id: 211,
+      id: "211",
       Category: "Workstation",
       Subcategory: "Configuration",
       Entry:
@@ -1512,91 +1512,91 @@ const initState = {
       Priority: "1 - High"
     },
     {
-      id: 212,
+      id: "212",
       Category: "Workstation",
       Subcategory: "Configuration",
       Entry: "All workstations meet minimum Operating System specifications",
       Priority: "1 - High"
     },
     {
-      id: 213,
+      id: "213",
       Category: "Workstation",
       Subcategory: "Configuration",
       Entry: "At least 50% of workstations are under current vendor warranty",
       Priority: "1 - High"
     },
     {
-      id: 214,
+      id: "214",
       Category: "Workstation",
       Subcategory: "Configuration",
       Entry: "Files are automatically saved/stored on servers",
       Priority: "1 - High"
     },
     {
-      id: 215,
+      id: "215",
       Category: "Workstation",
       Subcategory: "Configuration",
       Entry: "Standardized productivity software on all workstations",
       Priority: "1 - High"
     },
     {
-      id: 216,
+      id: "216",
       Category: "Workstation",
       Subcategory: "Configuration",
       Entry: "Users are not local administrators",
       Priority: "1 - High"
     },
     {
-      id: 217,
+      id: "217",
       Category: "Workstation",
       Subcategory: "Configuration",
       Entry: "Workstations are configured for DHCP for IP configuration",
       Priority: "1 - High"
     },
     {
-      id: 218,
+      id: "218",
       Category: "Workstation",
       Subcategory: "Configuration",
       Entry: "All network printers deployed automatically",
       Priority: "2 - Medium"
     },
     {
-      id: 219,
+      id: "219",
       Category: "Workstation",
       Subcategory: "Configuration",
       Entry: "All workstations are protected against electrical surge",
       Priority: "2 - Medium"
     },
     {
-      id: 220,
+      id: "220",
       Category: "Workstation",
       Subcategory: "Configuration",
       Entry: "Unnecessary services are disabled",
       Priority: "3 - Low"
     },
     {
-      id: 221,
+      id: "221",
       Category: "Workstation",
       Subcategory: "Configuration",
       Entry: "Workstations are automatically backed up at least daily",
       Priority: "3 - Low"
     },
     {
-      id: 222,
+      id: "222",
       Category: "Workstation",
       Subcategory: "Documentation",
       Entry: "Workstation set-up procedure is defined",
       Priority: "2 - Medium"
     },
     {
-      id: 223,
+      id: "223",
       Category: "Workstation",
       Subcategory: "Documentation",
       Entry: "All network printers documented",
       Priority: "3 - Low"
     },
     {
-      id: 224,
+      id: "224",
       Category: "Workstation",
       Subcategory: "Management",
       Entry:
@@ -1604,56 +1604,56 @@ const initState = {
       Priority: "1 - High"
     },
     {
-      id: 225,
+      id: "225",
       Category: "Workstation",
       Subcategory: "Management",
       Entry: "Adequate number of spare workstations (desktop and laptop) exist",
       Priority: "2 - Medium"
     },
     {
-      id: 226,
+      id: "226",
       Category: "Workstation",
       Subcategory: "Management",
       Entry: "Workstation standard build image exists",
       Priority: "2 - Medium"
     },
     {
-      id: 227,
+      id: "227",
       Category: "Workstation",
       Subcategory: "Management",
       Entry: "Workstations have adequate disk space on system volumes",
       Priority: "3 - Low"
     },
     {
-      id: 228,
+      id: "228",
       Category: "Workstation",
       Subcategory: "Security",
       Entry: "All local administrator passwords have been reset",
       Priority: "1 - High"
     },
     {
-      id: 229,
+      id: "229",
       Category: "Workstation",
       Subcategory: "Security",
       Entry: "All whitelisted workstation patches/updates are installed",
       Priority: "1 - High"
     },
     {
-      id: 230,
+      id: "230",
       Category: "Workstation",
       Subcategory: "Security",
       Entry: "Notebooks have encryption (FileVault) configured",
       Priority: "1 - High"
     },
     {
-      id: 231,
+      id: "231",
       Category: "Workstation",
       Subcategory: "Security",
       Entry: "Workstations protected by local software firewall",
       Priority: "1 - High"
     },
     {
-      id: 232,
+      id: "232",
       Category: "Workstation",
       Subcategory: "Security",
       Entry: "Require password immediately after sleep or screen saver begins",
