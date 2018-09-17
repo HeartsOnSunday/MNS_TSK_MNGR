@@ -7,6 +7,8 @@ class Home extends Component {
   render() {
     console.log(this.props);
     console.log(this.props.posts);
+    console.log(this.props);
+    console.log(this.props.posts.length);
     const { posts } = this.props;
     const postList = posts.length ? (
       posts.map(post => {

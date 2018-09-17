@@ -11,21 +11,21 @@ const initState = {
       FYI: "Dummy Data for testing purposes"
     },
     {
-      id: 1,
+      id: "1",
       Category: "Backup",
       Subcategory: "Configuration",
       Entry: "Backups are application aware/database aware",
       Priority: "1 - High"
     },
     {
-      id: 2,
+      id: "2",
       Category: "Backup",
       Subcategory: "Configuration",
       Entry: "Backups are compliant with data retention requirements",
       Priority: "1 - High"
     },
     {
-      id: 3,
+      id: "3",
       Category: "Backup",
       Subcategory: "Configuration",
       Entry:
@@ -33,21 +33,21 @@ const initState = {
       Priority: "1 - High"
     },
     {
-      id: 4,
+      id: "4",
       Category: "Backup",
       Subcategory: "Configuration",
       Entry: "Backups are configured for desktops/notebooks",
       Priority: "1 - High"
     },
     {
-      id: 5,
+      id: "5",
       Category: "Backup",
       Subcategory: "Configuration",
       Entry: "Backups are securely stored (virtually and physically)",
       Priority: "1 - High"
     },
     {
-      id: 6,
+      id: "6",
       Category: "Backup",
       Subcategory: "Configuration",
       Entry:
@@ -55,7 +55,7 @@ const initState = {
       Priority: "1 - High"
     },
     {
-      id: 7,
+      id: "7",
       Category: "Backup",
       Subcategory: "Configuration",
       Entry: "Servers have complete system image/clone backups configured",
