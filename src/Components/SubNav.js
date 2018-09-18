@@ -7,13 +7,16 @@ const SubNav = props => {
       <div className="container">
         <ul className="right">
           <li>
-            <Link to="/">Curent Tasks</Link>
+            <Link to="/">Master Task List</Link>
           </li>
           <li>
-            <NavLink to="/About">Pending Tasks</NavLink>
+            <NavLink to="/Current">Current Tasks</NavLink>
           </li>
           <li>
-            <NavLink to="/Contact">Completed Tasks</NavLink>
+            <NavLink to="/Pending">Pending Tasks</NavLink>
+          </li>
+          <li>
+            <NavLink to="/Completed">Completed Tasks</NavLink>
           </li>
         </ul>
       </div>
