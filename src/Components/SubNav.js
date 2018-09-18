@@ -3,7 +3,7 @@ import { Link, NavLink, withRouter } from "react-router-dom";
 
 const SubNav = props => {
   return (
-    <nav className="nav-wrapper">
+    <nav className="nav-wrapper" id="SubNav">
       <div className="container">
         <ul className="right">
           <li>
