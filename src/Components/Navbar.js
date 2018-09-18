@@ -1,6 +1,6 @@
 import React from "react";
 //import { Link, NavLink, withRouter } from "react-router-dom";
-import { withRouter } from "react-router-dom";
+import { Link, withRouter } from "react-router-dom";
 
 const Navbar = props => {
   //console.log(props);
@@ -11,17 +11,11 @@ const Navbar = props => {
     <nav className="nav-wrapper">
       <div className="container">
         <a className="brand-logo">MNS Task Manager</a>
-        {/* <ul className="right">
+        <ul className="right">
           <li>
-            <Link to="/">Home</Link>
+            <Link to="/">Master Task List</Link>
           </li>
-          <li>
-            <NavLink to="/About">About</NavLink>
-          </li>
-          <li>
-            <NavLink to="/Contact">Contact</NavLink>
-          </li>
-        </ul> */}
+        </ul>
       </div>
     </nav>
   );

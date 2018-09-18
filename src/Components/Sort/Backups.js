@@ -1,9 +1,9 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import Logo from "../HCH_SQ_Underline.png";
+import Logo from "/Users/leahgrace/Documents/HCH/MNS_TaskMNGR/MNS_TSK_MNGR/src/HCH_SQ_Underline.png";
 import { connect } from "react-redux";
 //convert from functional to class-based component
-class Master extends Component {
+class Backups extends Component {
   render() {
     console.log(this.props);
     console.log(this.props.posts);
@@ -44,11 +44,10 @@ class Master extends Component {
     );
   }
 }
-
 const mapStateToProps = state => {
   return {
     posts: state.posts //map this to props
   };
 };
 
-export default connect(mapStateToProps)(Master);
+export default connect(mapStateToProps)(Backups);
