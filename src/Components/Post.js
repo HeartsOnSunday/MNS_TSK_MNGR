@@ -13,11 +13,23 @@ class Post extends Component {
     const post = this.props.post ? (
       <div className="post">
         <h4 className="center">{this.props.post.Category}</h4>
-        <h6 className="center">Task id number: {this.props.post.id}</h6>
-        <p>{this.props.post.Entry}</p>
+        <h6 className="center">Task No. {this.props.post.id}</h6>
+        <p>Task Description: {this.props.post.Entry}</p>
         <div className="center">
-          <button className="btn grey" onClick={this.handleClick}>
-            Delete Post
+          <button className="btn complete" onClick={this.handleCurrent}>
+            List As Current Task
+          </button>
+          <br />
+          <button className="btn pending" onClick={this.handlePending}>
+            Schedule As Pending Task
+          </button>
+          <br />
+          <button className="btn complete" onClick={this.handleComplete}>
+            Complete Task
+          </button>
+          <br />
+          <button className="btn delete" onClick={this.handleClick}>
+            Delete Task
           </button>
         </div>
       </div>

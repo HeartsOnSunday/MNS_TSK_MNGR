@@ -1,16 +1,6 @@
 const initState = {
   posts: [
     {
-      id: "0",
-      title: "title 0",
-      body: "body 0",
-      Category: "Workstation",
-      Subcategory: "Security",
-      Entry: "Require password immediately after sleep or screen saver begins",
-      Priority: "2 - Medium",
-      FYI: "Dummy Data for testing purposes"
-    },
-    {
       id: "1",
       Category: "Backup",
       Subcategory: "Configuration",

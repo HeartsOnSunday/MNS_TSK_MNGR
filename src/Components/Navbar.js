@@ -1,5 +1,6 @@
 import React from "react";
-import { Link, NavLink, withRouter } from "react-router-dom";
+//import { Link, NavLink, withRouter } from "react-router-dom";
+import { Link, withRouter } from "react-router-dom";
 
 const Navbar = props => {
   //console.log(props);
@@ -12,13 +13,7 @@ const Navbar = props => {
         <a className="brand-logo">MNS Task Manager</a>
         <ul className="right">
           <li>
-            <Link to="/">Home</Link>
-          </li>
-          <li>
-            <NavLink to="/About">About</NavLink>
-          </li>
-          <li>
-            <NavLink to="/Contact">Contact</NavLink>
+            <Link to="/">Master Task List</Link>
           </li>
         </ul>
       </div>
