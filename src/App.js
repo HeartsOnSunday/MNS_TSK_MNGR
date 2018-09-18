@@ -5,6 +5,7 @@ import Home from "./Components/Home";
 import About from "./Components/About";
 import Contact from "./Components/Contact";
 import Post from "./Components/Post";
+import SubNav from "./Components/SubNav.js";
 
 class App extends Component {
   render() {
@@ -12,6 +13,7 @@ class App extends Component {
       <BrowserRouter>
         <div className="App">
           <Navbar />
+          <SubNav />
           <Switch>
             <Route exact path="/" component={Home} />
             <Route path="/About" component={About} />
